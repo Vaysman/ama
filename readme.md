@@ -1,3 +1,5 @@
+[Русская версия этого файла](readme_ru.md)
+
 # Ask me anything!
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
